@@ -6,7 +6,7 @@ pygame.init()
 
 # 2. Create the window (Width: 600, Height: 400)
 screen = pygame.display.set_mode((600, 400))
-pygame.display.set_caption("My First Game Window")
+pygame.display.set_caption("RE-LOAD//")
 
 # 3. Define a color using RGB (Red, Green, Blue)
 # 0 Red, 128 Green, 255 Blue makes a nice light blue!
@@ -30,4 +30,3 @@ while running:
 # 5. Shut everything down when the loop ends
 pygame.quit()
 sys.exit()
-rvt-rcrm-kpe
